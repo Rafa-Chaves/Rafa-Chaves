@@ -5,7 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafa-Chaves&theme=dracula)](https://git.io/streak-stats)
 
-![Imagem de Programação e Estudo](https://github.com/Rafa-Chaves/https://br.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_4102879.htm#fromView=search&page=1&position=13&uuid=333c1023-1277-4326-aaa6-222796c30541&query=Programador/blob/main/971.jpg?raw=true)
 
 
 
