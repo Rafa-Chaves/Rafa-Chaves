@@ -7,6 +7,8 @@
 
 ![Digitação de Código](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJjYTM1ODJidDNwdm5wZThkZzRzMGl6czBjdHB0cmlzZGl3eXJ3NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tPruKqK09tZfD3p2/giphy.gif)
 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
