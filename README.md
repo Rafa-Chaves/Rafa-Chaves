@@ -9,7 +9,7 @@
 ### 🎓 Formação & Foco
 - 📊 **Business Intelligence:** Formado pela **EBAC** e pela **Faculdade Hub (EUA)**.
 - 🐍 **Ciência de Dados:** Graduando pela **EBAC**.
-- 💻 **Programação:** Formação em lógica e programação básica pela **Faculdade Hub**.
+- 💻 **Programação:** Formação em lógica em programação básica pela **Faculdade Ebac**.
 
 ### 🛠 Minhas Habilidades
 [![My Skills](https://skillicons.dev/icons?i=SQL,python,git,github,visualstudio,pycharm)](https://skillicons.dev)
