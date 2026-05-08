@@ -12,7 +12,7 @@
 - 💻 **Programação:** Formação em lógica e programação básica pela **EBAC**.
 
 ### 🛠 Minhas Habilidades
-[![My Skills](https://skillicons.dev/icons?i=SQL,python,jupyter,git,github,visualstudio,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=SQL,python,anaconda,git,github,visualstudio,pycharm)](https://skillicons.dev)
 
 ### 📊 Desempenho no GitHub
 <p align="center">
@@ -31,5 +31,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
-
 
